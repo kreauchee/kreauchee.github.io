@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Site Title
-email: my-email@domain.com
+title: From The Brink Of Ruin, One Hedgehog Steps
+email: fear.my.wrath@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write a description for this in _config.yml for head > meta 
-  and feed.xml site descript.
+  A place for my rambles, my insanity, my education, and anything 
+  else my heart desires.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.alexadelle.com" # the base hostname & protocol for your site
 twitter_username: kreauchee
