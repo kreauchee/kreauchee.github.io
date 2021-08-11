@@ -11,6 +11,12 @@
     width: 100%;
     z-index: 9999;
     background-color: $background-color;
+
+    // Background image and image positioning
+    background-image: url('/images/long-lonely-road.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-position: center center;
 }
 
 .site-title {
@@ -23,7 +29,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $grey-color-light;
     }
 }
 
@@ -36,7 +42,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color-light;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
